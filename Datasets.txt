@@ -1,0 +1,1 @@
+Download the dataset for the model training and evaluation using this link  "https://www.kaggle.com/datasets/jonathanoheix/face-expression-recognition-dataset/data"
