@@ -198,7 +198,7 @@ try:
 except Exception as e:
     print(f"Error loading secondary image: {e}")
 
-# Start detecting and displaying
+# Start detecting and displaying the real time emotion detection
 detect_and_display()
 
 # Start the Tkinter main loop
