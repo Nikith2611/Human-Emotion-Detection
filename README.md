@@ -149,11 +149,6 @@ python realtimedetection.py
 
 Contributions are welcome! Feel free to fork the repo and submit pull requests.
 
----
-
-## 📜 License
-
-This project is licensed under the terms of the LICENSE file.
 
 ---
 
