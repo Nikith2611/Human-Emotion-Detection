@@ -155,6 +155,5 @@ Contributions are welcome! Feel free to fork the repo and submit pull requests.
 ## 👨‍💻 Author
 
 Nikith Gokul
-AI Engineer | Cloud & Generative AI Enthusiast
 
 ---
